@@ -45,7 +45,7 @@ src/
 Clone o repositório:
 
 ```bash
-git clone LINK_DO_REPOSITORIO
+git clone https://github.com/Rayane518/api-cadastro-clientes.git
 ```
 
 Entre na pasta do projeto:
